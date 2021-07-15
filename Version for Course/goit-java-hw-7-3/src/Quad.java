@@ -1,5 +1,3 @@
-package abstract_Class;
-
 public class Quad extends Shape {
     private String name = "Quad";
 

@@ -1,5 +1,3 @@
-package abstract_Class;
-
 public class TestShapeName {
     public static void main(String[] args) {
         Quad quad = new Quad();
