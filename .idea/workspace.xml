@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5280ab84-5009-4c38-bd32-17e5b002c195" name="Default Changelist" comment="Here was created a new supper class Shape, which have a method getName. Also there is five child classes, they overriding superclass Shape and his getName method.In future possible to create interface which can include such classes like : shape, square, angles,formulas e.t.c.">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home Work task7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work task7/Shape/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work task7/Shape/Hexagon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work task7/Shape/Quad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work task7/Shape/Rhomb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work task7/Shape/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work task7/Shape/ShapeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Work task7/Shape/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Hexagon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Quad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Rhomb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/ShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Triangle.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pXUsyvFSNYscLb9ihBApoRuqOP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.ShapeTest">
+    <configuration name="SapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shape.SapeTest" />
+      <module name="Home Work task7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shape.ShapeTest" />
+      <module name="Home Work task7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShapeTest" />
+        <item itemvalue="Application.SapeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5280ab84-5009-4c38-bd32-17e5b002c195" name="Default Changelist" comment="" />
+      <created>1615329143624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615329143624</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Here was created a new supper class Shape, which have a method getName. Also there is five child classes, they overriding superclass Shape and his getName method.In future possible to create interface which can include such classes like : shape, square, angles,formulas e.t.c.">
+      <created>1615372072823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615372072823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Here was created a new supper class Shape, which have a method getName. Also there is five child classes, they overriding superclass Shape and his getName method.In future possible to create interface which can include such classes like : shape, square, angles,formulas e.t.c." />
+    <option name="LAST_COMMIT_MESSAGE" value="Here was created a new supper class Shape, which have a method getName. Also there is five child classes, they overriding superclass Shape and his getName method.In future possible to create interface which can include such classes like : shape, square, angles,formulas e.t.c." />
+  </component>
+</project>
