@@ -1,6 +1,4 @@
-package abstract_Class;
-
-public class Oval extends Shape {
+public class Triangle extends Shape{
     private String name = "Triangle";
 
     public String getName() {
@@ -9,8 +7,6 @@ public class Oval extends Shape {
 
     @Override
     public void printShapeName() {
-
         System.out.println("This shape name will be : " + getName());
     }
-
 }

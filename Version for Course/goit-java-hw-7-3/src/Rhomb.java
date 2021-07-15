@@ -1,5 +1,3 @@
-package abstract_Class;
-
 public class Rhomb extends Shape {
     private String name = "Triangle";
 
