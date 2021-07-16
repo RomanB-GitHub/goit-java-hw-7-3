@@ -1,8 +1,8 @@
-public class Triangle extends Shape{
-    private String name = "Triangle";
+public class Triangle extends Shape implements Print {
 
-    public String getName() {
-        return name;
+    @Override
+    public final String getName() {
+        return "Triangle";
     }
 
     @Override

@@ -1,10 +1,10 @@
 public class TestShapeName {
     public static void main(String[] args) {
-        Shape quad = new Quad();
-        Shape triangle = new Triangle();
-        Shape circle = new Circle();
-        Shape rhomb = new Rhomb();
-        Shape oval = new Oval();
+        Quad quad = new Quad();
+        Triangle triangle = new Triangle();
+        Circle circle = new Circle();
+        Rhomb rhomb = new Rhomb();
+        Oval oval = new Oval();
 
 
         quad.printShapeName();

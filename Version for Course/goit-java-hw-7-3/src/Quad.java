@@ -1,13 +1,12 @@
-public class Quad extends Shape {
-    private String name = "Quad";
+public class Quad extends Shape implements Print {
 
-    public String getName() {
-        return name;
+    @Override
+    public final String getName() {
+        return "Quad";
     }
 
     @Override
     public void printShapeName() {
-
         System.out.println("This shape name will be : " + getName());
     }
 }

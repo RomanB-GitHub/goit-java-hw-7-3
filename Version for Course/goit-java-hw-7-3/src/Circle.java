@@ -1,12 +1,12 @@
-public class Circle extends Shape {
-    private String name = "Circle";
+public class Circle extends Shape implements Print {
 
-    public String getName() {
-        return name;
+    @Override
+    public final String getName() {
+        return "Circle";
     }
 
     @Override
-   public void printShapeName() {
+    public void printShapeName() {
         System.out.println("This shape name will be : " + getName());
     }
 }

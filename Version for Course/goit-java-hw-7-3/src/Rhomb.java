@@ -1,13 +1,13 @@
-public class Rhomb extends Shape {
-    private String name = "Triangle";
+public class Rhomb extends Shape implements Print {
 
-    public String getName() {
-        return name;
+
+    @Override
+    public final String getName() {
+        return "Rhomb";
     }
 
     @Override
     public void printShapeName() {
-
         System.out.println("This shape name will be : " + getName());
     }
 }

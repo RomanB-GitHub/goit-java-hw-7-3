@@ -1,5 +1,8 @@
-public abstract class Shape implements Print {
-   @Override
-   public abstract void printShapeName();
+public abstract class Shape  {
+
+    public String getName() {
+        return "Shape";
+    }
+
 
 }
